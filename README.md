@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello, I'm Io
 
-<!--
-**IoDevl/iodevl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **sometimes developer** who loves learning new things, sometimes building random projects, and exploring various things.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about writing code in various programming languages and am always looking to improve my skills. Here's a quick rundown of what I work with:
+
+- **C++**: I have a solid foundation but still exploring advanced concepts.
+- **Java**: Comfortable with object-oriented programming, though not highly advanced yet.
+- **JavaScript**: I enjoy building interactive web applications and learning more about frontend development.
+- **Python**: Still learning, but using it for automation, data analysis, and small projects.
+- **Web Development**: Basic knowledge of **HTML** and **CSS**, always experimenting with making beautiful, responsive websites.
+
+
+## Skills I'm Exploring
+
+- **Design**: I'm learning about design principles and UI/UX to improve my work visually.
+- **Guitar**: I'm also exploring the world of music and learning how to play guitar, it's a fun creative outlet for me.
+
+## Currently Learning
+
+- Web frameworks like **React** and **Vue.js** to level up my JavaScript skills.
+- Deepening my Python knowledge, especially in areas like **data science** and **machine learning**.
+- Advancing my design skills with tools like **Figma** and **Adobe XD**.
+
+## Some of My Projects
+
+- I don't currently have any major projects, just random ones for fun.
