@@ -11,6 +11,7 @@ I'm passionate about writing code in various programming languages and am always
 - **Python**: Still learning, but using it for automation, data analysis, and small projects.
 - **Web Development**: Basic knowledge of **HTML** and **CSS**, always experimenting with making beautiful, responsive websites.
 
+- **Discord Bots**: I occasionally create Discord bots, mostly for personal use or fun.
 
 ## Skills I'm Exploring
 
