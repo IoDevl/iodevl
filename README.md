@@ -7,7 +7,6 @@ I'm a **sometimes developer** who loves learning new things, sometimes building 
 I'm passionate about writing code in various programming languages and am always looking to improve my skills. Here's a quick rundown of what I work with:
 
 - **C++**: I have a solid foundation but still exploring advanced concepts.
-- **Java**: Comfortable with object-oriented programming, though not highly advanced yet.
 - **JavaScript**: I enjoy building interactive web applications and learning more about frontend development.
 - **Python**: Still learning, but using it for automation, data analysis, and small projects.
 - **Web Development**: Basic knowledge of **HTML** and **CSS**, always experimenting with making beautiful, responsive websites.
@@ -21,7 +20,7 @@ I'm passionate about writing code in various programming languages and am always
 ## Currently Learning
 
 - Web frameworks like **React** and **Vue.js** to level up my JavaScript skills.
-- Deepening my Python knowledge, especially in areas like **data science** and **machine learning**.
+- Deepening my Python knowledge.
 - Advancing my design skills with tools like **Figma** and **Adobe XD**.
 
 ## Some of My Projects
