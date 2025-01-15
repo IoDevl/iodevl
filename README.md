@@ -26,3 +26,7 @@ I'm passionate about writing code in various programming languages and am always
 ## Some of My Projects
 
 - I don't currently have any major projects, just random ones for fun.
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IoDevl&theme=github-compact">
+</p>
