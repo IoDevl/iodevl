@@ -16,6 +16,7 @@ I'm passionate about writing code in various programming languages and am always
 
 - **Design**: I'm learning about design principles and UI/UX to improve my work visually.
 - **Guitar**: I'm also exploring the world of music and learning how to play guitar, it's a fun creative outlet for me.
+- **AI and LLMs**: Getting into how artificial intelligence and large language models work, for fun, to use in projects and so on.
 
 ## Currently Learning
 
