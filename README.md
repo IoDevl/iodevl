@@ -13,14 +13,18 @@
 
 <div align="center">
 <pre>
-██  ██████     ██████  ███████ ██    ██ 
-██ ██    ██    ██   ██ ██      ██    ██ 
-██ ██    ██    ██   ██ █████   ██    ██ 
-██ ██    ██    ██   ██ ██       ██  ██  
-██  ██████  ██ ██████  ███████   ████    
-
-I'm a **sometimes developer** who loves learning new things, sometimes building random projects, and exploring various things.
+ ██▓ ▒█████       ▓█████▄ ▓█████ ██▒   █▓
+▓██▒▒██▒  ██▒     ▒██▀ ██▌▓█   ▀▓██░   █▒
+▒██▒▒██░  ██▒     ░██   █▌▒███   ▓██  █▒░
+░██░▒██   ██░     ░▓█▄   ▌▒▓█  ▄  ▒██ █░░
+░██░░ ████▓▒░ ██▓ ░▒████▓ ░▒████▒  ▒▀█░  
+░▓  ░ ▒░▒░▒░  ▒▓▒  ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
+ ▒ ░  ░ ▒ ▒░  ░▒   ░ ▒  ▒  ░ ░  ░  ░ ░░  
+ ▒ ░░ ░ ░ ▒   ░    ░ ░  ░    ░       ░░  
+ ░      ░ ░    ░     ░       ░  ░     ░  
+               ░   ░                 ░   
 </pre>
+I'm a **sometimes developer** who loves learning new things, sometimes building random projects, and exploring various things.
 
 <div align="left">
 
