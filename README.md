@@ -14,19 +14,18 @@
 <div align="center">
 <pre>
  ██▓ ▒█████       ▓█████▄ ▓█████ ██▒   █▓
-▓██▒▒██▒  ██▒     ▒██▀ ██▌▓█   ▀▓██░   █▒
-▒██▒▒██░  ██▒     ░██   █▌▒███   ▓██  █▒░
-░██░▒██   ██░     ░▓█▄   ▌▒▓█  ▄  ▒██ █░░
-░██░░ ████▓▒░ ██▓ ░▒████▓ ░▒████▒  ▒▀█░  
-░▓  ░ ▒░▒░▒░  ▒▓▒  ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
- ▒ ░  ░ ▒ ▒░  ░▒   ░ ▒  ▒  ░ ░  ░  ░ ░░  
- ▒ ░░ ░ ░ ▒   ░    ░ ░  ░    ░       ░░  
+▓██  ██▒  ██▒     ▒██▀ ██▌▓█   ▀▓██░   █▒
+▒██  ██░  ██▒     ░██   █▌▒███   ▓██  █▒░
+░██  ██   ██░     ░▓█▄   ▌▒▓█  ▄  ▒██ █░░
+░██   ████▓▒░ ██▓ ░▒████▓ ░▒████▒  ▒▀█░  
+░▓    ▒░▒░▒░  ▒▓▒  ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
+ ▒    ░ ▒ ▒░  ░▒   ░ ▒  ▒  ░ ░  ░  ░ ░░  
+ ▒    ░ ░ ▒   ░    ░ ░  ░    ░       ░░  
  ░      ░ ░    ░     ░       ░  ░     ░  
   ░   ░                 ░   
-</pre>
 
 I'm a **sometimes developer** who loves learning new things, sometimes building random projects, and exploring various things.
-
+</pre>
 ## What I Do
 
 I'm passionate about writing code in various programming languages and am always looking to improve my skills. Here's a quick rundown of what I work with:
