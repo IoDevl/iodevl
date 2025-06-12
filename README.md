@@ -11,7 +11,19 @@
 </table>
 </p>
 
-# Hello, I'm Io
+<div align="center">
+<pre>
+ ██▓ ▒█████       ▓█████▄ ▓█████ ██▒   █▓
+▓██▒▒██▒  ██▒     ▒██▀ ██▌▓█   ▀▓██░   █▒
+▒██▒▒██░  ██▒     ░██   █▌▒███   ▓██  █▒░
+░██░▒██   ██░     ░▓█▄   ▌▒▓█  ▄  ▒██ █░░
+░██░░ ████▓▒░ ██▓ ░▒████▓ ░▒████▒  ▒▀█░  
+░▓  ░ ▒░▒░▒░  ▒▓▒  ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  
+ ▒ ░  ░ ▒ ▒░  ░▒   ░ ▒  ▒  ░ ░  ░  ░ ░░  
+ ▒ ░░ ░ ░ ▒   ░    ░ ░  ░    ░       ░░  
+ ░      ░ ░    ░     ░       ░  ░     ░  
+  ░   ░                 ░   
+</pre>
 
 I'm a **sometimes developer** who loves learning new things, sometimes building random projects, and exploring various things.
 
